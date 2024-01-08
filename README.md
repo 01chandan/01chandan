@@ -1,4 +1,4 @@
-![InShot_20240108_204725900](https://github.com/01chandan/01chandan/assets/121013050/ec311559-e9d0-46f4-8284-ff3cfc5e8c6d)
+![InShot_20240108_204725900-ezgif com-crop](https://github.com/01chandan/01chandan/assets/121013050/2827c288-8896-454c-b425-d8994867d68c)
 
 
 <h1 align="center">Hi 👋, I'm Chandan</h1>
