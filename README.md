@@ -1,3 +1,4 @@
+https://github.com/01chandan/01chandan/assets/121013050/b247a5f9-37e7-4fa9-ad7c-53b725bbb322
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate Full Stack Developer </></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
