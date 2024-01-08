@@ -1,6 +1,6 @@
+![InShot_20240108_204725900](https://github.com/01chandan/01chandan/assets/121013050/ec311559-e9d0-46f4-8284-ff3cfc5e8c6d)
 
-<p align="center"> <img src="https://github.com/01chandan/01chandan/assets/121013050/646c7181-9560-4545-99f2-dd58ac0af056"> 
-</p>
+
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate Full Stack Developer </></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
