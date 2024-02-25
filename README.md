@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ed-Tech Dynamic Website, Managing CMS and Creating Content](https://www.excellenteducationalhub.in/)
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Node.js, React**
 
 - 💬 Ask me about **Anything**
 
