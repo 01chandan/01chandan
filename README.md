@@ -1,34 +1,80 @@
-<h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">A passionate Full Stack Developer </></h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01chandan&label=Profile%20views&color=0e75b6&style=flat" alt="01chandan" /> </p>
-
-- 🔭 I’m currently working on [Ed-Tech Dynamic Website, Managing CMS and Creating Content](https://www.excellenteducationalhub.in/)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **info.chandan16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/01chandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/01chandan" height="30" width="40" /></a>
+<h1 align="center">Chandan Kumar</h1>
+<p align="center">
+Full Stack Developer • Micro-Frontend Architect • AI-Driven Builder
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="80" height="40"/> </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-   <a href="https://cdnjs.com/libraries/gsap" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="tailwind" width="40" height="40"/> </a>  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-<!--   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp; -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  &nbsp;
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;
-  </p>
+<p align="center">
+Building scalable software, modern SaaS products, and high-performance web experiences.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Full Stack Developer with 2+ years of hands-on experience designing and building secure, scalable, and performance-driven applications.
+
+I don’t just write code — I build products.
+
+From startups to enterprise teams, I help transform ideas into real, production-ready systems using modern architecture and AI-powered tools.
+
+- 🔹 Micro-frontend architecture mindset  
+- 🔹 Secure, maintainable, and scalable systems  
+- 🔹 Strong focus on usability & performance  
+- 🔹 Seamless third-party integrations  
+- 🔹 Business-aware development approach  
+
+New idea? Existing product? Either way — I’ve got you covered.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+React.js • Next.js • JavaScript (ES6+) • TypeScript  
+Tailwind CSS • GSAP • HTML5 • CSS3  
+
+### Backend
+Node.js • Django  
+
+### Databases
+MongoDB • MySQL  
+
+### Cloud & DevOps
+AWS • Git • Linux  
+
+### AI & Modern Technologies
+Generative AI • Agentic AI • RAG (Retrieval-Augmented Generation)  
+LangChain • AI-powered automation systems  
+
+---
+
+## 🧠 Specialized Experience
+
+- Building SaaS platforms & scalable web apps  
+- Architecting micro-frontend systems  
+- Secure software practices & code reviews  
+- Integrating payment systems & third-party APIs  
+- Working with EdTech platforms (Graphy, Classplus)  
+- Business-focused development with finance understanding  
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://chandankumar.digital/
+
+---
+
+## 🤝 Let’s Connect
+
+📧 info.chandan16@gmail.com  
+💼 https://www.linkedin.com/in/01chandan  
+💻 https://github.com/01chandan  
+
+---
+
+<p align="center">
+Focused on clean architecture.  
+Driven by performance.  
+Built for scale.
+</p>
